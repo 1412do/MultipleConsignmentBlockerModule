@@ -1,0 +1,2 @@
+class CustomBException(Exception):
+    pass
